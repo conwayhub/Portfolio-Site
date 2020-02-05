@@ -1,0 +1,27 @@
+body {
+    background-color: #ffd1dc
+}
+
+h2{
+    position: absolute;
+    top: 30%;
+    left: 30%;
+}
+
+.harm {
+    position: absolute;
+    top: 70%;
+    left: 40%;
+}
+
+#triangle-entrance {
+   
+    position: absolute;
+    top: 40%;
+    left: 40%;
+    width: 0;
+    height: 0;
+    border-left: 100px solid transparent;
+    border-right: 100px solid transparent;
+    border-top: 200px solid blue;
+  }
